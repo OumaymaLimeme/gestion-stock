@@ -69,7 +69,7 @@ menu: any;
                 id:'32',
                 titre:'Commandes Clients',
                 icon:'',
-                url:'',
+                url:'commandesclient',
               }
              ]
           },
@@ -89,7 +89,7 @@ menu: any;
                 id:'42',
                 titre:'Commandes Fournisseurs',
                 icon:'',
-                url:'',
+                url:'commandesfrs',
               }
              ]
           },
